@@ -1,3 +1,7 @@
+#Ruby on Rails Turotial: sample appication
+
+This is the sample appication for Ruby on Rails Turorial
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
